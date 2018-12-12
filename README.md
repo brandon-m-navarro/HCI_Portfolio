@@ -1,12 +1,27 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/brandon-m-navarro/HCI_Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Brandon Navarro and I'm currently a junior at Worcester Polytechnic Institute majoring in Computer Science. As you can see above, this website was created as a way to showcase the projects that I have worked on in the previous seven weeks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below you can find the links to the Medium articles that I wrote detailing the design process that was follwed for each respective project.
 
-### Markdown
+### Medium Posts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Design For Others](https://medium.com/@benemrick/group-1-design-for-others-998326e8287d)
+  In this project, the goal was to create...
+
+[Design For Understanding](https://medium.com/@brandon.m.navarro/design-for-understanding-3ce5180c100e)
+  In this project, the goal was to create...
+  
+[Design For Tension](https://medium.com/@brandon.m.navarro/design-for-tension-f5271f7203bf)
+  In this project, the goal was to create...
+  
+[Design For Wellbeing](https://medium.com/@brandon.m.navarro/design-for-wellbeing-179f9d2e348c)
+  In this project, the goal was to create...
+
+[Design For Another World]
+  In this project, the goal was to create...
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,8 +40,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
