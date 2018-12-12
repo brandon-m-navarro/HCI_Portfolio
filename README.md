@@ -6,19 +6,19 @@ Below you can find the links to the Medium articles that I wrote detailing the d
 
 ### Medium Posts
 
-[Design For Others](https://medium.com/@benemrick/group-1-design-for-others-998326e8287d)
-  In this project, the goal was to create...
+[Design For Others](https://medium.com/@benemrick/group-1-design-for-others-998326e8287d) - 
+  The goal of this project was to redesign an existing website for mobile phones with a specific user group in mind. Our team developed paper prototypes to test our design and created a final interactive prototype using _InVision_.
 
-[Design For Understanding](https://medium.com/@brandon.m.navarro/design-for-understanding-3ce5180c100e)
-  In this project, the goal was to create...
+[Design For Understanding](https://medium.com/@brandon.m.navarro/design-for-understanding-3ce5180c100e) - 
+  The goal of this project was to create a visual representation for a chosen dataset. Our team developed our visuals using _Vega_. Using _Vega_, one can concisely describe a visualization as a set of encodings that map from data fields to the properties of graphical marks, using a JSON format.
   
-[Design For Tension](https://medium.com/@brandon.m.navarro/design-for-tension-f5271f7203bf)
-  In this project, the goal was to create...
+[Design For Tension](https://medium.com/@brandon.m.navarro/design-for-tension-f5271f7203bf) - 
+  The goal of this project was to create a chatbot that informed users about a divisive topic. Our team chose to discuss the topic of gerrymandering and created a chatbot using _Flow XO_.
   
-[Design For Wellbeing](https://medium.com/@brandon.m.navarro/design-for-wellbeing-179f9d2e348c)
-  In this project, the goal was to create...
+[Design For Wellbeing](https://medium.com/@brandon.m.navarro/design-for-wellbeing-179f9d2e348c) - 
+  The goal for this project was to use the _Affectiva_ libraries to create a website that responded to user emotion.
 
-[Design For Another World]
+[Design For Another World] - 
   In this project, the goal was to create...
 
 
