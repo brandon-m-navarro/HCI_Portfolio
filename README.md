@@ -2,7 +2,7 @@
 
 Hello! My name is Brandon Navarro and I'm currently a junior at Worcester Polytechnic Institute majoring in Computer Science. As you can see above, this website was created as a way to showcase the projects that I have worked on in the previous seven weeks.
 
-Below you can find the links to the Medium articles that I wrote detailing the design process that was follwed for each respective project.
+Below you can find the links to the Medium articles that I wrote detailing the design process that was followed for each respective project.
 
 ### Medium Posts
 
