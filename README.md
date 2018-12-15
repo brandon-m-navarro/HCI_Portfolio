@@ -22,7 +22,7 @@ Below you can find the links to the Medium articles that I wrote detailing the d
   The goal for this project was to use the _AFrame_ framework to create a virtual reality experience. Our team decided to create a rhythm game where the player must block incoming projectiles with two shields. This was done by importing a number of libraries for the physics, collision, environment, and music synchronization. Additionally, the link for the _Glitch_ repository can be found [here](https://glitch.com/edit/#!/magma-music).
   
 [Design Manifesto](https://medium.com/@brandon.m.navarro/design-manifesto-for-cs-3041-6ae73e8ae714) -
-  What the TLDR? Click the link above to read the summarizing piece I wrote for the class. Thanks for checking out my site!
+  Want the TLDR? Click the link above to read the summarizing piece I wrote for the class. Thanks for checking out my site!
 
 ### Contact
 
